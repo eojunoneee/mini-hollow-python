@@ -8,10 +8,10 @@ The project was created to practice programming logic, control flow, and basic g
 
 This project is part of my learning journey and portfolio as a beginner developer.
 
-## 🇧🇷 Descrição em Português
+# 🇧🇷 Descrição em Português
 Mini Hollow é um jogo de combate em turnos inspirado em Hollow Knight, desenvolvido em Python.  
 O projeto foi criado com o objetivo de praticar lógica de programação, controle de fluxo e mecânicas básicas de jogo.
 
-## Technologies
+# Technologies
 - Python
 - random
